@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Build output
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment variables file
+.env
+
+# Mac system files
+.DS_Store
+
+# Vercel build cache
+.vercel/
+
+# Misc
+*.log
